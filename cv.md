@@ -2,11 +2,11 @@
 
 ## Contacts
 
- * ##### tel: 	   +79869932519
- *##### telegram: [@MaximOreshkin](https://t.me/MaximOreshkin)
- *##### e-mail: 	    sldetlersl@gmail.com
- *##### github: 	    [@sldetlersl](https://github.com/sldetlersl)
- *##### vk: 	    [@detler](https://vk.com/detler)
+ ##### tel: 	    +79869932519
+ ##### telegram: [@MaximOreshkin](https://t.me/MaximOreshkin)
+ ##### e-mail: 	 sldetlersl@gmail.com
+ ##### github: 	 [@sldetlersl](https://github.com/sldetlersl)
+ ##### vk: 	     [@detler](https://vk.com/detler)
 
 ## Summary
  
