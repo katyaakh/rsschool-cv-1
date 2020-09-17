@@ -1,1 +1,1 @@
-https://sldetlersl.github.io/rsschool-cv/cv
+https://github.com/sldetlersl/rsschool-cv/blob/gh-pages/cv.md
