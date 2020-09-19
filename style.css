@@ -1,0 +1,29 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.5rem;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+li {
+    margin-bottom: 10px;
+}
